@@ -1,1 +1,1 @@
-This repo contains some basic and advanced projects built with javascript
+This repo contains some basic and advanced projects built with javascript.
