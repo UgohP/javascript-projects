@@ -12,4 +12,6 @@
 
 3. A circumference calculator - A simple javascript program that calculates the circumference of a circle.
 
-4. Subsription - A small program that checks if a user is subscribed or not. It also checks for the payment method. 
+4. Subsription - A small program that checks if a user is subscribed or not. It also checks for the payment method.
+
+5. Guessing Game - A game that a user will guess a number from 1 - 100. The user has unlimited trial until he/she guesses the correct answer. 
