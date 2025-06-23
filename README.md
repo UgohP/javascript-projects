@@ -15,3 +15,5 @@
 4. Subsription - A small program that checks if a user is subscribed or not. It also checks for the payment method.
 
 5. Guessing Game - A game that a user will guess a number from 1 - 100. The user has unlimited trial until he/she guesses the correct answer. 
+
+6. A Dice Roleler - A javascript project like the random number generator but it generates images of the dice
